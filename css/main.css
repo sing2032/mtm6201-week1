@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Jost', sans-serif;
+    line-height: 1.4;
+}
+
+.wrapper{
+    margin:10rem auto;
+    max-width: 50%;
+    
+}
+
+
+
+img{
+    width: 200px;
+    border-radius: 50%;
+    display: inline;
+}
+
+h1{
+    
+    margin-top:4rem ;
+    font-size: 3rem;
+    white-space: nowrap;
+}
+
+
+header{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    
+}
+
+main{
+    background-color: rgb(206, 206, 206);
+    
+    padding:1rem 0 1rem 1rem;
+    
+}
+
+hr{
+    margin-bottom: 0;
+    margin-top:2rem;
+    
+
+}
+
+h2{
+    margin-top:0;
+}
+
+dt{
+    font-weight: bold;
+}
