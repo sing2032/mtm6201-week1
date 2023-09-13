@@ -8,7 +8,7 @@ body{
 }
 
 .wrapper{
-    margin:10rem auto;
+    margin:7rem auto;
     max-width: 50%;
     
 }
@@ -37,7 +37,7 @@ header{
 }
 
 main{
-    background-color: rgb(206, 206, 206);
+    background-color: rgb(234, 234, 234);
     
     padding:1rem 0 1rem 1rem;
     
